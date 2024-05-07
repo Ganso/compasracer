@@ -9,4 +9,5 @@ Podéis jugar online [en el foro de PICO-8](https://www.lexaloffle.com/bbs/?tid=
 Dentro del juego, el botón correspondiente a la tecla Z se representa con un círculo, y el de la X con un aspa. Es muy importante asociar «círculo» a «tecla Z» si jugáis desde un navegador.
 
 Como en cualquier juego de esta máquina virtual, esta captura de pantalla contiene, a la misma vez, el propio código del juego en sus metadatos:
+
 ![compasracer p8](https://github.com/Ganso/compasracer/assets/1718890/33b461dc-6d8e-4514-9715-dbb27e3bac45)
